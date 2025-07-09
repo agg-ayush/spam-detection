@@ -38,7 +38,7 @@ Make sure you have Python 3.x installed on your system. You will also need the f
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/spam-detection.git](https://github.com/your-username/spam-detection.git)
+    git clone https://github.com/agg/spam-detection.git
     cd spam-detection
     ```
 
